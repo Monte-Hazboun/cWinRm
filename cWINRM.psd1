@@ -13,10 +13,10 @@
 # RootModule = ''
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.2.0'
 
 # ID used to uniquely identify this module
-GUID = 'e38d1d4f-364a-480e-a25b-ac866859739f'
+GUID = 'adadd885-2167-4b77-b4b0-0e143b4debc2'
 
 # Author of this module
 Author = 'Monte Hazboun'
